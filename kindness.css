@@ -1,0 +1,40 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+    background-color: cyan;
+}
+
+.address{
+    text-align: center;
+    line-height: 0.5em;
+}
+
+.color-one{
+    color: blueviolet;
+}
+
+.left{
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+    background-color: cyan;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    color: #333333;
+    background-color: #333333;
+}
+
+.blue{
+    color: blue;
+    text-decoration: underline;
+}
