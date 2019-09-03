@@ -8,6 +8,7 @@ lucid link testing.
 
 https://lucid.blog/tylersunday234/post/css-html-revolution-f89
 
+Added a contact form
 
 added a contact form
 
